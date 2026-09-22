@@ -1,33 +1,33 @@
-# 🎬 Netflix Dashboard
+# 📊 Netflix Data Analysis Dashboard
 
-A Python-based data analysis dashboard that visualizes Netflix movies and TV shows using the `netflix_titles.csv` dataset.
+An interactive data analysis dashboard built using Python, Pandas,
+Plotly and Streamlit to explore and visualize Netflix movies and TV shows.
 
 ## 🚀 Features
-* Interactively explore Netflix content trends over the years.
-* Breakdown of TV Shows vs. Movies.
-* Analysis of top genres, directors, and countries.
 
-## 🛠️ Tech Stack
-* **Language:** Python
-* **Libraries:** (e.g., Streamlit / Dash / Plotly - *update this based on your app!*)
+- 📈 Analyze Netflix content trends over the years
+- 🎬 Compare Movies and TV Shows
+- 🌎 Explore country-wise content distribution
+- ⭐ Analyze ratings and content categories
+- 🎭 Explore genres and directors
+- 📊 Interactive data visualizations
+- 🔎 Easy-to-use Streamlit interface
 
-## 📦 Installation & Setup
+## 🛠️ Technologies Used
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd Netflix-Dashboard
-   ```
+- Python
+- Pandas
+- Plotly
+- Streamlit
 
-2. **Install the required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+## 📂 Dataset
 
-3. **Run the application:**
-   ```bash
-   python app1.py
-   ```
+The project uses the `netflix_titles.csv` dataset containing information
+about Netflix movies and TV shows.
 
-## 📊 Dataset
-The project utilizes the `netflix_titles.csv` file containing listings of all movies and TV shows available on Netflix.
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Harshitathakur20/Netflix-Dashboard.git
